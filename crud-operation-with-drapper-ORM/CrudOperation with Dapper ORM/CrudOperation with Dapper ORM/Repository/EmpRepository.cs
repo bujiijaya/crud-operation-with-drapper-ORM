@@ -6,7 +6,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using Dapper;
-namespace CrudOperationUsingDapperWihtjQueryJson.Repository
+namespace CrudOperation.Dapper ORM.Repository
 {
     public class EmpRepository
     {

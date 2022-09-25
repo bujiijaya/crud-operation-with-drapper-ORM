@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
-namespace CrudOperationUsingDapperWihtjQueryJson
+namespace CrudOperation.Dapper ORM;
 public class RouteConfig
     {
         public static void RegisterRoutes(RouteCollection routes)

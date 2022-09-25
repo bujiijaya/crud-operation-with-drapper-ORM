@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
-using CrudOperationUsingDapperWihtjQueryJson.Models;
-using CrudOperationUsingDapperWihtjQueryJson.Repository;
-namespace CrudOperationUsingDapperWihtjQueryJson.Controllers
+using CrudOperation.Dapper ORM.Models;
+using CrudOperation.Dapper ORM.Repository;
+namespace CrudOperation.Dapper ORM.Controllers;
 {
     public class HomeController : Controller
     {
