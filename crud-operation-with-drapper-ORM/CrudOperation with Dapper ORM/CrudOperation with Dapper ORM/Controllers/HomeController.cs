@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
-using CrudOperation.Dapper ORM.Models;
-using CrudOperation.Dapper ORM.Repository;
-namespace CrudOperation.Dapper ORM.Controllers;
+using CrudOperation.DapperORM.Models;
+using CrudOperation.DapperORM.Repository;
+namespace CrudOperation.DapperORM.Controllers;
 {
     public class HomeController : Controller
     {

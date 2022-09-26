@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
-namespace CrudOperation.Dapper ORM.Models
+namespace CrudOperation.DapperORM.Models
 {
     public class EmpModel
     {
