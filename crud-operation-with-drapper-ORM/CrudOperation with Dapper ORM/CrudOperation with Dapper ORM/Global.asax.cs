@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
-namespace CrudOperationUsingDapperWihtjQueryJson
+namespace CrudOperation.DapperORM
 {
     public class MvcApplication : System.Web.HttpApplication
     {
